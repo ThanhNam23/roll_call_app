@@ -50,9 +50,6 @@ captures/
 .externalNativeBuild
 .cxx/
 
-# Google Services (add your own!)
-google-services.json
-
 # Kotlin
 .kotlin/
 
